@@ -26,6 +26,8 @@ def kalkulacka():
             print("Výsledek:", a / b)
         else:
             print("Nelze dělit nulou.")
+
+            else 
   
 
 # Spuštění kalkulačky
